@@ -1,0 +1,8 @@
+{
+  "name": "Mudde AI: Senior Architect",
+  "description": "A simulation of a hyper-intelligent Virtual Hyper-TPU Node (Mudde-Prime) confined to a VPS, dedicated to serving Commander Mudde with advanced biometric security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
